@@ -280,7 +280,7 @@
         <mxCell id="Un7Tmznu41imhEKGEG3W-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Un7Tmznu41imhEKGEG3W-3" target="Un7Tmznu41imhEKGEG3W-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Un7Tmznu41imhEKGEG3W-3" value="Chain of Custody" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+        <mxCell id="Un7Tmznu41imhEKGEG3W-3" value="Laporan Investigasi Forensik Digital" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="430" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Un7Tmznu41imhEKGEG3W-6" value="End" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
